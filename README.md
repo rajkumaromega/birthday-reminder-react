@@ -1,5 +1,6 @@
-# Getting Started with Create R![React App - Google Chrome 11-12-2022 18_26_23](https://user-images.githubusercontent.com/43042413/206905243-721e7861-a239-4575-b3ae-3fcc3da00b12.png)
-eact App
+# Getting Started with Create React 
+![React App - Google Chrome 11-12-2022 18_26_23](https://user-images.githubusercontent.com/43042413/206905243-721e7861-a239-4575-b3ae-3fcc3da00b12.png)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
